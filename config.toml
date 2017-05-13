@@ -1,6 +1,6 @@
 baseurl = "https://bandjay.github.io/"
 title = "Digital Portfolio"
-copyright = "&copy; 2017 Jayachandu B"
+copyright = "&copy; 2016 Jayachandu B"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -23,7 +23,7 @@ defaultContentLanguageInSubdir = false
   role = "M.S in Analytics"
   organization = "University of Illinois,Urbana champaign"
   organization_url = ""
-  avatar = "machine-learning.jpg"
+  avatar = "portrait.jpg"
   email = "bandlmd2@illinois.edu"
   address = "104 N Lincoln Ave,#204,Urbana,IL,51801,USA"
   phone = "+1 217 9040255"
@@ -125,14 +125,14 @@ defaultContentLanguageInSubdir = false
     link = "mailto:bandlmd2@illinois.edu"
 
   [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/bandjay/"
+
+  [[params.social]]
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/bandjay"
-
-  [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//github.com/gcushen"
 
 
 # Navigation Links
