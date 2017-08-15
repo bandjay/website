@@ -19,7 +19,7 @@ weight = 1
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Master of Science in Analytics"
+  course = "M.S. in Analytics"
   institution = "University of Illinois ,Urbana champaign"
   year = 2017
 
